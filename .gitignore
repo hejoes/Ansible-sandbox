@@ -1,0 +1,4 @@
+ansible.cfg
+inventory*
+terraform.tfstate*
+.terraform*
